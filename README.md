@@ -12,3 +12,5 @@ Then, enter the `sketches/` directory and run
 p5 server
 ```
 You will be able to flip through the sketches by clicking the star at the top left.
+
+Alternatively, serve the `sketches/` directory with your server of choice.
